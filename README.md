@@ -5,10 +5,10 @@
 
 -->
 
-- 🔭 Je travaille présentement à préparer des laboratoires stimulants pour les étudiants de 4e et 6e session au Collège de Maisonneuve,
+- 🔭 Je travaille présentement à préparer des labos stimulants !
 - 🌱 J'améliore mes connaissances avec GitHub !
-- 💬 Posez moi des questions à propos de circuits électroniques (logique, alim, mcu, schéma, layout et autre) et de programmation (C, C++) :)
-- ⚡ Fun fact: Je n'aime pas vraiment écrire de la doc même si je demande à mes étudiants de rédiger des rapports !
+- 💬 Posez moi des questions à propos de circuits électroniques ou de prog !
+- ⚡ Fun fact: J'aime pas vraiment écrire de la doc...
 - 
 
 
